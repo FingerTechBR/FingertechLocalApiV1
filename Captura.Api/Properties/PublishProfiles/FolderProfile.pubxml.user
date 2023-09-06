@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Finger\Desktop\Nova pasta</_PublishTargetUrl>
+    <History>True|2023-08-24T14:17:35.1778637Z;True|2023-08-24T11:15:09.4979737-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Captura.Api.dll">
+      <publishTime>08/24/2023 11:15:08</publishTime>
+    </File>
+    <File Include="bin/Captura.Api.pdb">
+      <publishTime>08/24/2023 11:15:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/18/2022 13:19:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>02/16/2018 15:30:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Diagnostics.dll">
+      <publishTime>02/16/2018 15:30:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/16/2018 15:30:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.HttpListener.dll">
+      <publishTime>02/16/2018 15:30:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Hosting.dll">
+      <publishTime>02/16/2018 15:30:48</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/16/2018 15:30:46</publishTime>
+    </File>
+    <File Include="bin/NITGEN.SDK.NBioBSP.dll">
+      <publishTime>02/16/2018 15:30:40</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>02/16/2018 15:30:48</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 07:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>08/05/2022 00:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>02/16/2018 15:30:48</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 10:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 20:40:18</publishTime>
+    </File>
+    <File Include="bin/System.Text.Encodings.Web.dll">
+      <publishTime>10/18/2022 13:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Text.Json.dll">
+      <publishTime>05/24/2023 11:43:42</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 07:05:18</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 10:29:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>02/16/2018 15:30:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>02/16/2018 15:30:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>02/16/2018 15:30:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>02/16/2018 15:30:44</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/16/2018 15:30:40</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/23/2023 09:25:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/24/2023 11:15:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
